@@ -1,6 +1,6 @@
 # 北ソフト工房
 
-http://kitako.tokyo/lib/JavaExercise.aspx?id=101
+http://kitako.tokyo/lib/JavaExercise.aspx
 
 ### 1. 表示、変数、演算
 
