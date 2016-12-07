@@ -4,14 +4,14 @@ http://kitako.tokyo/lib/JavaExercise.aspx
 
 ### 1. 表示、変数、演算
 
-+ 練習問題 1 - 1
++ [練習問題 1 - 1](https://github.com/iganari/try-java/tree/master/kita_soft_koubo/1-01)
     + "Hello World"と表示するプログラムを作成しなさい。
     + ※ System.out.println()、System.out.print()、System.out.printf()などを使用する。
 
-+ 練習問題 1 - 2
++ [練習問題 1 - 2](https://github.com/iganari/try-java/tree/master/kita_soft_koubo/1-02)
     + int 型の変数 x に数値 11 を代入し、x の値を“x=11”のように表示するプログラムを作成しなさい。
 
-+ 練習問題 1 - 3
++ [練習問題 1 - 3](https://github.com/iganari/try-java/tree/master/kita_soft_koubo/1-03)
     + int 型の変数 x、y に数値 13、17 を代入し、x、y の値を“x=13,y=17”のように表示するプログラムを作成しなさい。
 
 + 練習問題 1 - 4
