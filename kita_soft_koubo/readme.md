@@ -14,7 +14,7 @@ http://kitako.tokyo/lib/JavaExercise.aspx
 + [練習問題 1 - 3](https://github.com/iganari/try-java/tree/master/kita_soft_koubo/1-03)
     + int 型の変数 x、y に数値 13、17 を代入し、x、y の値を“x=13,y=17”のように表示するプログラムを作成しなさい。
 
-+ [練習問題 1 - 4
++ [練習問題 1 - 4](https://github.com/iganari/try-java/tree/master/kita_soft_koubo/1-04)
     + int 型の変数 x に数値 13 と 17 の和を代入し、x の値を表示するプログラムを作成しなさい。
 
 + 練習問題 1 - 5
